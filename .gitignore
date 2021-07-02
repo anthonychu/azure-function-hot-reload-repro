@@ -1,0 +1,18 @@
+.supabase/*
+.idea/*
+.vscode/*
+node_modules/*
+package-lock.json
+yarn.lock
+
+local.settings.json
+/**/dist/*
+
+# Yarn
+/**/.yarn/*
+!/**/.yarn/patches
+!/**/.yarn/releases
+!/**/.yarn/plugins
+!/**/.yarn/sdks
+!/**/.yarn/versions
+.pnp.*
